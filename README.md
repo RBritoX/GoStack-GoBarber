@@ -9,23 +9,21 @@
 <blockquote align="center">“For those who get better each day, it's ready is utopia”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-GoBarber">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-GoBarber?color=orange">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-GoBarber">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-GoBarber?color=orange">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-GoBarber">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-GoBarber?color=orange">
 
   <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
   
-  <a href="https://github.com/RBritoX/GoStack-GoBarber/blob/master/LICENSE">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
-  </a>
+  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
 </p>
 
 <p align="center">
-  <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-blue?style=flat&logo=typescript">
+  <img alt="Node.js version" src="https://img.shields.io/badge/Node.js-v12.16.1-green?style=flat&logo=node.js">
 
-  <img alt="Node.js version" src="https://img.shields.io/badge/Node.js-v12.16.1-blue?style=flat&logo=node.js">
+  <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-blueviolet?style=flat&logo=typescript">
 
   <img alt="React.js version" src="https://img.shields.io/badge/React.js-v16.13.1-blue?style=flat&logo=react">
 
