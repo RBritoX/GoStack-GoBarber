@@ -9,16 +9,16 @@
 <blockquote align="center">“For those who get better each day, it's ready is utopia”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-GoBarber-BackEnd">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-GoBarber">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-GoBarber-BackEnd">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-GoBarber">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-GoBarber-BackEnd">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-GoBarber">
 
-  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/04b113cafd864644ace55878fb219655">
+  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
   
-  <a href="https://github.com/RBritoX/GoStack-GoBarber-BackEnd/blob/master/LICENSE">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber-BackEnd">
+  <a href="https://github.com/RBritoX/GoStack-GoBarber/blob/master/LICENSE">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
   </a>
 </p>
 
@@ -33,11 +33,11 @@
 </p>
 
 <p align="center">
-  <a href="#about-the-project">🚀 The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#back-end">🤖 Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#front-end">💻 Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#starting-the-project">🏁 Starting</a>
+  <a href="#-about-the-project">🚀 The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-back-end">🤖 Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-front-end">💻 Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-starting-the-project">🏁 Starting</a>
 </p>
 
 <h3 align="center">
