@@ -11,6 +11,7 @@
   <br><cite>— Eric Schmidt</cite>
 </blockquote>
   <p align="center">
+    🚀<br>
     In honor of <a href="https://rocketseat.com.br/">RocketSeat</a> which helped me achieve my goals
   </p>
 
@@ -44,7 +45,7 @@
 </h3>
 
 <p align="center">
-  🚀 <a href="#-about-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  📝 <a href="#-about-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🤖 <a href="#-back-end">Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🖥 <a href="#-front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   📱 <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -57,7 +58,7 @@
 
 <br>
 
-## 🚀 About the project
+## 📝 About the project
 GoBarber is an application for barbershop, where the barbers register and inform the days and times available to work, while the client register and choose the barber of their preference, the day and time available to cut their hair.
 
 <br>
