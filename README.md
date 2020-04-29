@@ -104,9 +104,9 @@ Coming soon... In Construction 🚧
 Clone the project: `git clone https://github.com/RBritoX/GoStack-GoBarber`
 
 <br>
+
 🤖 To run the **Back-End**, you must first create a container in Docker and a PostgreSQL database in DBeaver. 
 <br>Then open the terminal and run the following commands:
-<br><br>
 
 ````zsh
 # to enter the Back-End folder
@@ -118,10 +118,9 @@ $ yarn
 # to start the application on port 3333
 $ yarn dev:server
 ````
-
 <br>
+
 💻 To run the **Front-End**, in another terminal tab, execute the following commands:
-<br><br>
 
 ````zsh
 # to enter the Front-End folder
@@ -133,11 +132,10 @@ $ yarn
 # to start the application on port 3000
 $ yarn start
 ````
-
 <br>
+
 📱 To run **Mobile**, you need an Android or iOS simulator (Mac only) running on your computer or connect your physical smartphone to USB. To learn how to install / configure, follow the [RocketSeat tutorial](https://react-native.rocketseat.dev/).
 <br>Now, on another tab of the terminal, run the following commands:
-<br><br>
 
 ````zsh
 # to enter the Mobile folder
@@ -152,7 +150,6 @@ $ yarn android
 # to launch the app on the simulator or on the physical iOS smartphone connected to the USB device (only using Mac)
 $ yarn ios
 ````
-
 <br>
 
 ---
