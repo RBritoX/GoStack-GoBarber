@@ -38,7 +38,6 @@
   <img alt="React Native version" src="https://img.shields.io/badge/React_Native-v0.62.2-7159c1?style=flat&logoColor=60dafb&logo=react">
 </p>
 
-<br>
 
 <h3 align="center">
   Index
