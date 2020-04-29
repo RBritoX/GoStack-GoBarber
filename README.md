@@ -46,7 +46,7 @@
 <p align="center">
   🚀 <a href="#-about-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🤖 <a href="#-back-end">Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  💻 <a href="#-front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🖥 <a href="#-front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   📱 <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🏁 <a href="#-starting-the-project">Starting</a>
 </p>
@@ -84,7 +84,7 @@ To upload images, Multer was used.
 
 <br>
 
-## 💻 Front-End
+## 🖥 Front-End
 Coming soon... In Construction 🚧
 
 ### 🛠 Technologies
@@ -120,7 +120,7 @@ $ yarn dev:server
 ````
 <br>
 
-💻 To run the **Front-End**, in another terminal tab, execute the following commands:
+🖥 To run the **Front-End**, in another terminal tab, execute the following commands:
 
 ````zsh
 # to enter the Front-End folder
