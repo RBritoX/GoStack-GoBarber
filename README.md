@@ -1,19 +1,25 @@
 <h1 align="center">
-    <img alt="GoStack" src="./logo.svg" width="500px" />
+    <img alt="GoStack" src="./assets/logo.svg" width="500px" />
 </h1>
 
 <h3 align="center">
   GoBarber
 </h3>
 
-<blockquote align="center">“For those who get better each day, it's ready is utopia”!</blockquote>
+<blockquote align="center">
+  “When you're offered a seat on a rocket, you don't ask which seat. You simply board.”!
+  <br><cite>— Eric Schmidt</cite>
+  <p align="center">
+    In honor of <a href="https://rocketseat.com.br/">RocketSeat</a> which helped me achieve my goals
+  </p>
+</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-GoBarber?color=orange">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-GoBarber?color=yellow">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-GoBarber?color=orange">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-GoBarber?color=yellow">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-GoBarber?color=orange">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-GoBarber?color=yellow">
 
   <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
   
@@ -21,21 +27,21 @@
 </p>
 
 <p align="center">
-  <img alt="Node.js version" src="https://img.shields.io/badge/Node.js-v12.16.1-green?style=flat&logo=node.js">
+  <img alt="Node.js version" src="https://img.shields.io/badge/Node.js-v12.16.1-689f63?style=flat&logoColor=689f63&logo=node.js">
 
-  <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-blueviolet?style=flat&logo=typescript">
+  <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-007acc?style=flat&logoColor=007acc&logo=typescript">
 
-  <img alt="React.js version" src="https://img.shields.io/badge/React.js-v16.13.1-blue?style=flat&logo=react">
+  <img alt="React.js version" src="https://img.shields.io/badge/React.js-v16.13.1-60dafb?style=flat&logoColor=60dafb&logo=react">
 
-  <img alt="React Native version" src="https://img.shields.io/badge/React_Native-v0.62.2-blue?style=flat&logo=react">
+  <img alt="React Native version" src="https://img.shields.io/badge/React_Native-v0.62.2-7159c1?style=flat&logoColor=60dafb&logo=react">
 </p>
 
 <p align="center">
-  <a href="#-about-the-project">🚀 The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-back-end">🤖 Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-front-end">💻 Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-starting-the-project">🏁 Starting</a>
+  🚀 <a href="#-about-the-project">The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🤖 <a href="#-back-end">Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  💻 <a href="#-front-end">Front-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  📱 <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🏁 <a href="#-starting-the-project">Starting</a>
 </p>
 
 <h3 align="center">
@@ -46,7 +52,11 @@
 GoBarber is an application for barbershop, where the barbers register and inform the days and times available to work, while the client register and choose the barber of their preference, the day and time available to cut their hair.
 
 ## 🤖 Back-End
-The Back-End was done with Node.js and TypeScript, including tools such as ESLint, Prettier and EditorConfig for standardization and organization of the code, connecting the application to the PostgreSQL database, using Docker to create containers with TypeORM, Multer for uploading images and JWT (Json Web Token) for authentication and user access control. All in API Rest format.
+The Back-End was developed with Node.js and TypeScript, in API Rest format.
+For standardization and organization of the code, ESLint, Prettier and EditorConfig were used.
+The connection to the PostgreSQL database was made with DBeaver and Docker to create containers with TypeORM.
+For authentication and user access control, JWT (Json Web Token) was used.
+To upload images, Multer was used.
 
 ### 🛠 Technologies
 - **[Node.js](https://nodejs.org/en/)**
@@ -62,13 +72,13 @@ The Back-End was done with Node.js and TypeScript, including tools such as ESLin
 - *[EditorConfig](https://editorconfig.org/)*
 
 ## 💻 Front-End
-Coming soon...
+Coming soon... In Construction 🚧
 
 ### 🛠 Technologies
 - **[React.js](https://reactjs.org/)**
 
 ## 📱 Mobile
-Coming soon...
+Coming soon... In Construction 🚧
 
 ### 🛠 Technologies
 - **[React Native](https://reactnative.dev/)**
@@ -76,12 +86,31 @@ Coming soon...
 ## 🏁 Starting the project
 Clone the project: `git clone https://github.com/RBritoX/GoStack-GoBarber`
 
-Execute os seguintes comandos para executar o Back-End:
-
+🤖 To run the Back-End, you must first create a container in Docker and a PostgreSQL database in DBeaver. Then open the terminal and run the following commands:
 - `cd backend` to enter the Back-End folder
 - `yarn` to download the dependencies
-- `dev:server` to start the application on port `3333`
+- `yarn dev:server` to start the application on port `3333`
+
+💻 To run the Front-End, in another terminal tab, execute the following commands:
+- `cd frontend` to enter the Front-End folder
+- `yarn` to download the dependencies
+- `yarn start` to start the application on port `3000`
+
+📱 To run Mobile, you need an Android or iOS simulator (Mac only) running on your computer or connect your physical smartphone to USB. To learn how to install / configure, follow the [RocketSeat tutorial](https://react-native.rocketseat.dev/). Now, on another tab of the terminal, run the following commands:
+- `cd mobile` to enter the Mobile folder
+- `yarn` to download the dependencies
+- `yarn android` to start the app on the simulator or on the Android physical smartphone connected to the USB device
+- `yarn ios` to launch the app on the simulator or on the physical iOS smartphone connected to the USB device (only using Mac)
 
 ---
 
-Made by [Raphael Brito](https://www.linkedin.com/in/raphaellbrito/) (RBritoX)
+### Made by **Raphael Brito** (RBritoX)
+<a href="https://www.linkedin.com/in/raphaellbrito/">
+  <img alt="React.js version" src="https://img.shields.io/badge/LinkedIn-/in/raphaellbrito-0e76a8?style=flat&logoColor=white&logo=linkedin">
+</a>
+<a href="https://www.facebook.com/RaphaBrito">
+  <img alt="React.js version" src="https://img.shields.io/badge/Facebook-/RaphaBrito-1778F2?style=flat&logoColor=white&logo=facebook">
+</a>
+<a href="https://www.instagram.com/raphaellbrito/">
+  <img alt="React.js version" src="https://img.shields.io/badge/Instagram-@raphaellbrito-833AB4?style=flat&logoColor=white&logo=instagram">
+</a>
