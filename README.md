@@ -53,7 +53,7 @@
 </p>
 
 <h3 align="center">
-  🚧 In Construction 🚧
+  🚧 In Development 🚧
 </h3>
 
 <br>
@@ -88,18 +88,33 @@ To upload images, Multer was used.
 <br>
 
 ## 🖥 Front-End
-Coming soon... In Construction 🚧
+The Front-End was developed with React.js and TypeScript. For standardization and organization of the code, ESLint, Prettier and EditorConfig were used. The styling was done with Styled-Components. The navigation screens were made with React Router DOM. The validation of login and registration was done with Yup. To connect with the Back-End, Axios was used.
 
 ### 🛠 Technologies
 - **[React.js](https://reactjs.org/)**
+- *[React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)*
+- *[Styled-Components](https://styled-components.com/)*
+- *[React Icons](https://react-icons.netlify.com/#/)*
+- *[Polished](https://polished.js.org/)*
+- *[Axios](https://nodemon.io/)*
+- *[ESLint](https://eslint.org/)*
+- *[Prettier](https://prettier.io/)*
+- *[EditorConfig](https://editorconfig.org/)*
 
 <br>
 
 ## 📱 Mobile
-Coming soon... In Construction 🚧
+The Mobile was developed with React Nativeand TypeScript. For standardization and organization of the code, ESLint, Prettier and EditorConfig were used. The styling was done with Styled-Components. The navigation screens were made with React Navigation. The validation of login and registration was done with Yup. To connect with the Back-End, Axios was used.
 
 ### 🛠 Technologies
 - **[React Native](https://reactnative.dev/)**
+- *[React Navigation](https://reactnavigation.org/)*
+- *[Styled-Components](https://styled-components.com/)*
+- *[React-Native-Vector-Icons](https://github.com/oblador/react-native-vector-icons)*
+- *[Axios](https://nodemon.io/)*
+- *[ESLint](https://eslint.org/)*
+- *[Prettier](https://prettier.io/)*
+- *[EditorConfig](https://editorconfig.org/)*
 
 <br>
 
