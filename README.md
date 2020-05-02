@@ -150,6 +150,8 @@ $ yarn
 # to start the application on port 3000
 $ yarn start
 ````
+Now access `http://localhost:3000/`
+
 <br>
 
 📱 To run **Mobile**, you need an Android or iOS simulator (Mac only) running on your computer or connect your physical smartphone to USB. To learn how to install / configure, follow the [RocketSeat tutorial](https://react-native.rocketseat.dev/).
@@ -162,9 +164,12 @@ $ cd mobile
 # to download the dependencies
 $ yarn
 
+# for Android:
+# first open the Android emulator
 # to start the app on the simulator or on the Android physical smartphone connected to the USB device
 $ yarn android
 
+# for iOS:
 # to launch the app on the simulator or on the physical iOS smartphone connected to the USB device (only using Mac)
 $ yarn ios
 ````
