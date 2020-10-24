@@ -1,13 +1,15 @@
 import React, { ButtonHTMLAttributes } from 'react';
 
-import * as S from './styles';
+import { Container } from './styles';
 
-type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement>;
+type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
+  loading?: boolean;
+};
 
-const Button: React.FC<ButtonProps> = ({ children, ...rest }) => (
-  <S.Container type="button" {...rest}>
-    {children}
-  </S.Container>
+const Button: React.FC<ButtonProps> = ({ children, loading, ...rest }) => (
+  <Container type="button" {...rest}>
+    {loading ? 'Carregando...' : children}
+  </Container>
 );
 
 export default Button;

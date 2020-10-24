@@ -1,6 +1,6 @@
 import React from 'react';
 
-import * as S from './styles';
+import { Container } from './styles';
 
 interface TooltipProps {
   title: string;
@@ -13,10 +13,11 @@ const Tooltip: React.FC<TooltipProps> = ({
   children,
 }) => {
   return (
-    <S.Container className={className}>
+    <Container className={className}>
       {children}
       <span>{title}</span>
-    </S.Container>
+    </Container>
   );
 };
+
 export default Tooltip;
