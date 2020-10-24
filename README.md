@@ -61,7 +61,20 @@
 ## 📝 About the project
 GoBarber is an application for barbershop, where the barbers register and inform the days and times available to work, while the client register and choose the barber of their preference, the day and time available to cut their hair.
 
-![gif](https://user-images.githubusercontent.com/34657005/80713147-5f4a8400-8ac9-11ea-9f6f-201f171614d3.gif)
+<div align="center">
+
+<img alt="SignIn" src="https://user-images.githubusercontent.com/34657005/97091888-a9926500-1615-11eb-98bb-881622649949.png" width="1000px" />
+<img alt="SignUp" src="https://user-images.githubusercontent.com/34657005/97091894-b4e59080-1615-11eb-8285-df1a488d6b1a.png" width="1000px" />
+<img alt="Dashboard" src="https://user-images.githubusercontent.com/34657005/97091898-badb7180-1615-11eb-89c3-8328b575a5a1.png" width="1000px" />
+</div>
+
+<div align="center">
+
+<img alt="SignIn" src="https://user-images.githubusercontent.com/34657005/97091920-d9416d00-1615-11eb-934a-e612fd84151e.png" width="300px" />
+<img alt="SignUp" src="https://user-images.githubusercontent.com/34657005/97091926-de9eb780-1615-11eb-8641-74f9d42935ae.png" width="300px" />
+<img alt="List" src="https://user-images.githubusercontent.com/34657005/97091942-f6763b80-1615-11eb-83dc-2ca4755587a9.png" width="300px" />
+<img alt="Scheduling" src="https://user-images.githubusercontent.com/34657005/97091944-faa25900-1615-11eb-87f5-42e6e962434a.png" width="300px" />
+</div>
 
 <br>
 
