@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.0",
     "@unform/core": "^2.0.0",
     "@unform/web": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "date-fns": "^2.13.0",
     "polished": "^3.5.1",
     "react": "^16.13.1",
