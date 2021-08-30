@@ -51,10 +51,6 @@
   🏁 <a href="#-starting-the-project">Starting</a>
 </p>
 
-<h3 align="center">
-  🚧 In Development 🚧
-</h3>
-
 <br>
 
 ## 📝 About the project
