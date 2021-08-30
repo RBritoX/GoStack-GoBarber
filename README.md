@@ -11,8 +11,7 @@
   <br><cite>— Eric Schmidt</cite>
 </blockquote>
   <p align="center">
-    🚀<br>
-    In honor of <a href="https://rocketseat.com.br/">RocketSeat</a> which helped me achieve my goals
+    🚀
   </p>
 
 <br>
